@@ -1,4 +1,4 @@
-# GL校园网自动登录工具
+# 校园网自动登录工具
 
 校园网自动登录程序，支持开机自启，适用于Windows，macOS测试中。
 
@@ -10,7 +10,7 @@
 
 ## 使用要求
 
-- Windows或macOS系统
+- Windows7及以上系统
 - Python 3.6+
 - 依赖包: `requests`
 
